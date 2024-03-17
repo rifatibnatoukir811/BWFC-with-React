@@ -1,0 +1,150 @@
+#testimonial{
+    padding-top: 64px;
+}
+.tstimo-top h4{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #3734A9;
+    font-weight: 700;
+}
+.tstimo-top h3{
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 700;
+    color: #000;
+}
+
+.test-ban{
+    width: 653px;
+    height: 378px;
+    background-color: #F3F7FA;
+    position: relative;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.text-test{
+    padding: 120px  0px  0px 88px;
+}
+.text-test h5{
+    font-size: 16px;
+    color: #000000;
+    font-weight: 800;
+}
+.text-test p{
+    font-size: 14px;
+    color: #757095;
+    font-weight: 400;
+}
+.meye{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.nill{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+    position: relative;
+}
+.nill img{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.nill .text{
+    position: absolute;
+    left: 30px;
+    bottom: 20px;
+}
+.icon{
+    margin-top: 9px;
+}
+.icon a{
+    padding-bottom: 7px;
+    width: 65px !important;
+    height: 60px !important;
+    font-size: 25px !important;
+    text-align: center !important;
+    color: #222;
+    border-radius: 50% !important;
+    border: 2px solid #000000;
+    transition: 0.5s;
+    margin-left: 10px;
+}
+.icon a:hover{
+    background-color: #3734A9;
+    color: #FFF;
+}
+.text p{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ban-right{
+    margin-top: 43px;
+}
+.dot{
+    margin-bottom: 16px;
+}
+.dot img{
+    width: 31px;
+    height: 27px;
+}
+.ban-right h4{
+    font-size: 20px;
+    font-weight: 700;
+    color: #000000;
+    margin-bottom: 16px;
+}
+.ban-right p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #757095;
+}
+.rate img{
+    width: 77px;
+    height: 17px;
+    margin-bottom: 5px;
+}
+.ban-right h5{
+    font-size: 16px;
+    font-weight: 700;
+    color: #000000;
+}
+.ban-right h6{
+    font-size: 14px;
+    font-weight: 400;
+    color: #757095;
+}
+.btm-test{
+    padding: 40px 35px;
+    border-radius: 15px;
+    background: #FFF;
+    border: 1px solid #DEE1E6;
+    box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.03);
+    margin-bottom: 115px;
+    margin-top: 40px !important;
+}
+.btm-test p{
+    font-size: 22px;
+    font-weight: 400;
+    color: #757095;
+    line-height: 30px;
+}
+.btm-test a{
+    padding: 16px 65px;
+    color: #FF7F5C;
+    border: 2px solid #FF7F5C;
+    transition: 0.5s;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    border-radius: 25px;
+}
+.btm-test a:hover{
+    background-color: #FF7F5C;
+    color: #FFF;
+}

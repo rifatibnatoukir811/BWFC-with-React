@@ -1,0 +1,38 @@
+#footer{
+    background-color: #1B1C31;
+    padding-top: 111px;
+    padding-bottom: 126px;
+}
+.left-text h5{
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFF;
+}
+.left-text p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFF;
+    opacity: 0.7;
+}
+.right-text{
+    display: flex;
+}
+.list h1{
+    font-size: 21px;
+    color: #FFF;
+    font-weight: 600;
+}
+.list li{
+    font-size: 16px;
+    font-weight: 300;
+    color: #FFF;
+    margin-top: 4px;
+}
+#copyright{
+    padding: 19px 0px 23px 0px;
+    background-color: #1B1C31;
+}
+#copyright p{
+    color: #FFF;
+    
+}

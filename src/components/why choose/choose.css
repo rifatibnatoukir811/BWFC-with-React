@@ -1,0 +1,70 @@
+#choose{
+    background-color: #3734A9;
+}
+#choose-from{
+    padding: 75px 68px 75px 110px;
+    margin-top: 40px;
+}
+
+.choose-text h4{
+    font-size: 18px;
+    color: #f3f3f3;
+    font-weight: 600;
+    margin-bottom: 25px;
+    font-family: "Poppins", sans-serif;
+}
+.choose-text h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #ffffff;
+    margin-bottom: 36px;
+}
+.choose-text p{
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 27px;
+}
+
+.choose-from h5{
+    font-size: 24px;
+    font-weight: 700;
+    color: #3734A9;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 22px;
+}
+.choose-from input{
+    width: 326px;
+    height: 60px;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    box-shadow:2px 2px 7px 1px rgba(34, 29, 29, 0.47);
+
+
+}
+.choose-from button{
+    width: 326px;
+    height: 60px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    color: #222;
+    background-color: #FFF;
+    transition: 0.05s;
+    box-shadow: 7px rgba(225, 152, 152, 0.47);
+
+}
+.choose-from button:hover{
+    background-color: #FF7F5C;
+    border: #FF7F5C;
+    color: #FFF;
+}

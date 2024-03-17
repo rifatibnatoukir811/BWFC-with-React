@@ -1,0 +1,25 @@
+.NavDropdown{
+    padding-right: 5px;
+}
+.sing a{
+    text-decoration: none;
+    margin-right: 15px;
+    color: #222;
+    padding: 5px 15px;
+    font-family: "Poppins", sans-serif;
+
+}
+.sing button{
+    width: 137px;
+    height: 52px;
+    border: none;
+    border-radius: 10px;
+    color: #000000;
+    border: 2px solid #3734A9;
+    transition: 0.5s;
+    
+}
+.sing button:hover{
+    background-color: #3734A9;
+    color: #FFF;
+}

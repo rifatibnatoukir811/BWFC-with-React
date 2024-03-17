@@ -1,0 +1,78 @@
+#financy{
+    text-align: center;
+    background-color: #F3F7FA;
+    width: 1300px;
+    border-radius: 20px;
+    margin: 0 auto;
+    padding-top: 56px;
+    padding-bottom: 90px;
+    margin-bottom: 100px;
+}
+.financy-head span{
+    font-size: 18px;
+    font-weight: 700;
+    color: #3734A9;
+    text-transform: uppercase;
+}
+.financy-head h1{
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 14px;
+}
+.finan-ro{
+    margin-top: 69px !important;
+}
+.finany-card{
+    width: 484px;
+    height: 241px;
+    gap: 20px;
+
+}
+.card-sec{
+    display: flex;
+    background-color: #FFF;
+    padding: 59px 30px 47px 37px;
+    border-radius: 10px;
+}
+.cercle{
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    background-color: #F7ECFD;
+    margin-right: 15px;
+}
+.cercle1{
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    background-color: #D8F5F1;
+    margin-right: 15px;
+}
+.cercle2{
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    background-color: #D9F1FD;
+    margin-right: 15px;
+}
+.cercle3{
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    background-color: #FFE4E3;
+    margin-right: 15px;
+}
+.right{
+    text-align: start;
+}
+.right h6{
+    font-size: 24px;
+    font-weight: 700;
+}
+.right p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 32px;
+    font-family: sans-serif;
+}
